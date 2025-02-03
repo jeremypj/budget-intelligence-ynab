@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 743.33333333333337
+          },
+          "nodeIndex": "Accounts",
+          "nodeLineageTag": "18ad0cc9-77d0-4fd4-a161-595bd5355bb8",
+          "size": {
+            "height": 287.85714285714283,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 893.04761904761915,
+            "y": 510.71428934733069
+          },
+          "nodeIndex": "Budgets",
+          "nodeLineageTag": "0447ef43-8a0e-4cc0-9979-8ad4fdae40ba",
+          "size": {
+            "height": 315.71428571428572,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 835.95238095238062,
+            "y": 0
+          },
+          "nodeIndex": "Categories",
+          "nodeLineageTag": "5ff42771-9463-4678-b25a-47b876cc1234",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 438.33333333333337
+          },
+          "nodeIndex": "Payees",
+          "nodeLineageTag": "48cf7125-f459-4e0f-8f4c-27e596a2baac",
+          "size": {
+            "height": 178.85714285714286,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 546.38094693138487,
+            "y": 527.14285714285734
+          },
+          "nodeIndex": "Transactions",
+          "nodeLineageTag": "d878308e-c735-415b-ad6d-439fcf91f60a",
+          "size": {
+            "height": 322.85714285714289,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 532.14285714285734,
+            "y": 0
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "0ebb52e8-f106-4ea4-baa0-5cf0ca7aad70",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

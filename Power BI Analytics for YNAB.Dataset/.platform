@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Power BI Analytics for YNAB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8771c7b5-d694-4ba7-adcc-a26fb3fa4163"
+  }
+}

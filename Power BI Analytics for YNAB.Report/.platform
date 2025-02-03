@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Power BI Analytics for YNAB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ca2fc95e-122a-49df-8e0d-4d491f02ade5"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "objectId": "",
+  "type": 4,
+  "explorationState": "{\"version\":\"1.8\",\"activeSection\":\"\",\"sections\":{\"ReportSectioncdf39a2f37d42ccda168\":{\"visualContainers\":{\"659b0413c053473000d8\":{\"singleVisual\":{\"visualType\":\"tableEx\",\"mobileObjects\":{\"columnWidth\":[{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"159.6665957457782D\"}}}},\"selector\":{\"metadata\":\"Payees.Payee name\"}}]}}},\"e0f50d62a77840049260\":{\"singleVisual\":{\"visualType\":\"cardVisual\",\"mobileObjects\":{\"layout\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}}}}]}}}}}}}"
+}
