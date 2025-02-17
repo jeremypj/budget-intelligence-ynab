@@ -15,7 +15,7 @@ Power BI is a business tool for which licensing can be complicated although ther
   - Adequate privileges to install template apps from Microsoft App Source
 
   **Steps**
-  1. Install from Microsoft App Source at this link.
+  1. Install from Microsoft App Source at this [link](https://appsource.microsoft.com/en-us/product/power-bi/jeremyjohnson1698690911419.budget-intelligence-ynab?tab=Overview). 
   2. When the report appears with sample data, click `Connect your data`.
   3. Navigate in your web browser to the [YNAB developer settings](https://app.ynab.com/settings/developer). Click the `New Token` button. Enter your password to create a new token. Copy this as you will not be able to see it again.
   4. Go to your budget in YNAB. You'll notice that the URL looks something like this `https://app.ynab.com/da15eb06-0062-d9ef-0744-cc28bc982871/budget/202502`. Copy out the middle part after `ynab.com/` but before `/budget`. In this example, it would be `da15eb06-0062-d9ef-0744-cc28bc982871`.
