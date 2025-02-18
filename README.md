@@ -2,7 +2,7 @@
 Budget Intelligence is a free and open source Power BI semantic model and reporting suite for [ynab.com](https://ynab.com). All YNAB data is included in the semantic model which makes it very flexible in reporting and visualizing basically any aspect of a users data.
 This application uses token authentication as opposed to OAuth due to limitations in Power BI which would require the configuration of an on-prem data gateway.
 
-<img src="https://github.com/jeremypj/budget-intelligence-ynab/blob/main/Icons/Main%20Screenshot.png" width="800"/>
+<img src="https://github.com/jeremypj/budget-intelligence-ynab/blob/main/Icons/MainScreenshot.png" width="800"/>
 
 # Installation
 Power BI is a business tool for which licensing can be complicated although there are free ways to use it. Below is a list of ways to configure the application.
